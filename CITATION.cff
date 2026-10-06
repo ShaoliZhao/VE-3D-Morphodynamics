@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "VEC 3D Morphodynamics Lab"
+message: "Please cite this repository release if it supports your work."
+type: software
+version: 0.1.0
+date-released: 2026-10-05
+license: MIT
+authors:
+  - family-names: Zhao
+    given-names: Shaoli
+abstract: "A runnable Task 2 lab for unregistered 3D developmental point clouds. It combines rigid-motion-invariant descriptors, fused expression-geometry transport, proper-rotation alignment, normalized shape interpolation, physical-scale forecasting and chirality-aware signatures, with synthetic examples and tests."
